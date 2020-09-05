@@ -1,0 +1,16 @@
+.comment-style{
+    margin-bottom: 20px;
+    margin-left: 100px;
+    padding: 20px;
+    width: 70%;
+    border: 1px solid gray;
+}
+.comment-img{
+    display: flex;
+}
+img{
+    border-radius: 50%;
+}
+.img-style{
+    margin-left: 10px;
+}
